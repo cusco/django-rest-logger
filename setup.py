@@ -27,7 +27,7 @@ author = 'Pedro Gomes'
 author_email = 'pedro@seedstars.com'
 license = 'MIT'
 install_requires = [
-    'Django>=1.8,<=2.2.16',
+    'Django>=1.8,<=3.1.5',
 ]
 
 
